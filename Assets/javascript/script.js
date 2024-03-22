@@ -45,6 +45,7 @@ const getRandomEmployee = function (employeesArray) {
   let randomEmployee = Math.floor(Math.random() * (employeesArray.length + 1));
   console.log(employeesArray[randomEmployee]);
 };
+
 /*
   ====================
   STARTER CODE
