@@ -18,7 +18,7 @@ This is basic a JavaScript web-app that focuses on tracking employee's names, an
 - Take a look around, and feel free to contact me as needed or offer suggestions for improvements!
 
 ```md
-![alt text](./assets/assets/pictures/site-1.png)
+![alt text](./assets/pictures/site-1.png)
 ```
 
 ```md
