@@ -3,6 +3,9 @@
 *::after {
   box-sizing: border-box;
 }
+* {
+  color: white;
+}
 
 html,
 body,
@@ -14,7 +17,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: #424242;
 }
 
 .wrapper {
@@ -35,7 +38,7 @@ h2 {
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 39%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
@@ -50,7 +53,7 @@ h2 {
   content: " ";
   display: block;
   width: 100%;
-  background: #e7e9eb;
+  background: #4d4d4d;
   height: 2px;
 }
 
@@ -59,14 +62,14 @@ h2 {
 }
 
 table {
-  width:100%;
+  width: 100%;
   border-spacing: 0;
   border-collapse: collapse;
 }
 
-td{
+td {
   text-align: center;
-  border:4px solid black;
+  border: 4px solid black;
 }
 
 tbody tr:nth-child(even) {
@@ -114,7 +117,6 @@ button[disabled] {
 .float-right {
   float: right;
 }
-
 
 @media (max-width: 690px) {
   .btn {
